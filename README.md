@@ -1,4 +1,4 @@
-# Muhammad Awais Rana - GitHub Readme
+# Muhammad Awais Rana
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/awais-rana/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/awaisrana)
