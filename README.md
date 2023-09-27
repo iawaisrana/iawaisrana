@@ -1,7 +1,7 @@
 # Muhammad Awais Rana
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iawaisrana)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](http://github.com/iawaisrana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iawaisrana/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/iawaisrana)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:awaisranafastian@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-(+92)%203137403230-informational)](tel:+923137403230)
 
